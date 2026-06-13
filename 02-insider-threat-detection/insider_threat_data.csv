@@ -1,0 +1,11 @@
+failed_logins,after_hours_access,large_downloads,unusual_file_access,policy_violations,privileged_account,prior_incidents,threat_level
+0,0,0,0,0,0,0,Normal
+1,0,0,0,0,0,0,Normal
+2,1,0,0,0,0,0,Suspicious
+3,1,1,0,0,0,0,Suspicious
+4,1,1,1,1,0,0,High Risk
+5,1,1,1,1,1,1,High Risk
+0,1,0,1,0,0,0,Suspicious
+1,1,1,1,1,1,0,High Risk
+2,0,1,0,0,1,0,Suspicious
+6,1,1,1,1,1,1,High Risk

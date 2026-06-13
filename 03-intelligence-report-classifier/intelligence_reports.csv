@@ -1,0 +1,11 @@
+report_text,intelligence_type
+"Confidential source reports suspicious meetings near government facilities",HUMINT
+"Satellite imagery reveals increased vehicle activity near border",GEOINT
+"Intercepted radio transmissions indicate planned movement",SIGINT
+"Public social media posts discuss upcoming demonstrations",OSINT
+"Sensor data detects unusual heat signatures",MASINT
+"Human source reports foreign intelligence activity",HUMINT
+"Drone imagery shows construction at remote location",GEOINT
+"Electronic communications intercepted from unknown sender",SIGINT
+"News reports indicate rising political tensions",OSINT
+"Radar signatures identify unidentified aerial activity",MASINT

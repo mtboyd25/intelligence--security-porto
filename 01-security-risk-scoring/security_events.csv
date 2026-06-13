@@ -1,0 +1,11 @@
+failed_logins,after_hours_access,unusual_file_access,policy_violations,privileged_account,risk_level
+0,0,0,0,0,Low
+1,0,0,0,0,Low
+2,1,0,0,0,Medium
+3,1,1,0,0,Medium
+4,1,1,1,0,High
+5,1,1,1,1,High
+0,1,0,1,0,Medium
+1,1,1,1,1,High
+2,0,1,0,1,Medium
+5,1,1,1,1,High
